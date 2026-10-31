@@ -1,0 +1,12 @@
+{
+    "serverHost":  "http://freevis.lat:8880",
+    "fallbackHosts":  [
+                          "http://freevis.lat:8880",
+                          "http://thplayorg75.xyz:8880"
+                      ],
+    "latestVersionCode":  1,
+    "latestVersionName":  "1.0.0",
+    "apkDownloadUrl":  "https://github.com/mschimidt/MSPlayStick-Releases/releases/latest/download/MSPlayStick.apk",
+    "releaseNotes":  "Versao 1.0.0: DNS dinamico em nuvem e atualizacao automatica OTA para Fire TV Stick e TV Box.",
+    "forceUpdate":  false
+}
