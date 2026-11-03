@@ -4,9 +4,9 @@
                           "http://freevis.lat:8880",
                           "http://thplayorg75.xyz:8880"
                       ],
-    "latestVersionCode":  1,
-    "latestVersionName":  "1.0.0",
-    "apkDownloadUrl":  "https://github.com/mschimidt/MSPlayStick-Releases/releases/latest/download/MSPlayStick.apk",
-    "releaseNotes":  "Versao 1.0.0: DNS dinamico em nuvem e atualizacao automatica OTA para Fire TV Stick e TV Box.",
+    "latestVersionCode":  101,
+    "latestVersionName":  "1.0.1",
+    "apkDownloadUrl":  "https://github.com/mschimidt/MSPlayStick-Releases/releases/download/v1.0.1/MSPlayStick.apk",
+    "releaseNotes":  "Ergonomia D-Pad, Miniplayer inteligente, correcao de contorno dos filmes e proximo episodio em series",
     "forceUpdate":  false
 }
