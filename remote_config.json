@@ -1,6 +1,7 @@
 {
-    "serverHost":  "http://freevis.lat:8880",
+    "serverHost":  "http://mstv.lat:8880",
     "fallbackHosts":  [
+                          "http://mstv.lat:8880",
                           "http://freevis.lat:8880",
                           "http://thplayorg75.xyz:8880"
                       ],
